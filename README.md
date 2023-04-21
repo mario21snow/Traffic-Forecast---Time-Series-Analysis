@@ -1,6 +1,5 @@
 # Traffic Forecast - Time Series Analysis
 
-**Complete Video Tutorial:** https://youtu.be/6GX5SO_V46c
 
 # Dataset Information
 
